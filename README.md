@@ -1,0 +1,1 @@
+# Threepio_auto_command_mapping
